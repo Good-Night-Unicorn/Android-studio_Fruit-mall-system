@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item >果类</item>
+        <item >柑类</item>
+        <item >桃类</item>
+        <item >瓜类</item>
+        <item >蕉类</item>
+        <item >葡萄类</item>
+    </string-array>
+</resources>
